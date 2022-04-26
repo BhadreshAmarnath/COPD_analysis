@@ -1,10 +1,12 @@
 # COPD Patient Segmentation Challenge
 
-## By Leonard Karsunky
+### By Leonard Karsunky
+
+# Introduction
 
 The aim of this analysis is to cluster/segment COPD patients into distinct subpopulations using unsupervised learning techniques. The dataset includes 101 (imaginary) patients and 22 features (both numerical and categorical), including information on their characteristics, disease severity, and co-morbidities. Other features include measures of patients' walking ability, quality of life, anxiety and depression.
 
-# Findings
+# Results
 
 In this small analysis, we used several unsupervised learning algorithms utilizing various distance metrics (Euclidian and non-Euclidian) to cluster patients with chronic obstructive pulmonary disease (COPD) that includes 22 features with both categorical and numerical features, including K-Means, K-Prototype and Factor Analysis of Mixed Data.
 
