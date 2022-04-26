@@ -2,8 +2,6 @@
 
 ## By Leonard Karsunky
 
-### April 25, 2022
-
 The aim of this analysis is to cluster/segment COPD patients into distinct subpopulations using unsupervised learning techniques. The dataset includes 101 (imaginary) patients and 22 features (both numerical and categorical), including information on their characteristics, disease severity, and co-morbidities. Other features include measures of patients' walking ability, quality of life, anxiety and depression.
 
 # Findings
